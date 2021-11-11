@@ -1,2 +1,2 @@
 # springcloudconfig
-add learn config
+add learn config test
